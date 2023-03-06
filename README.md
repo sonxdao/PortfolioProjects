@@ -1,6 +1,6 @@
 # PortfolioProjects
 
-This Repository will hold all of the code and queries from the Portfolio Projects that I create!
+This Repository will hold all things related to my Flavors of Cocoa project!
 
 As a chocolate fanatic, I have always wondered what makes up a chocolate bar! That satisfaction I get from each bite makes me wonder what is in it, how is it made, what is the cocoa percentage, and how expert chocolate raters/tasters would rate it. Do I have as sensitive of a palate as a professional rater? It gets more interesting as I keep pondering. I am aspired by this foodie idea, and I decided to do a project while I am at it. 
 
